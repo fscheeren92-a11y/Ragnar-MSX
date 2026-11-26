@@ -1,0 +1,43 @@
+{
+  "headline": "Ragnar",
+  "menu": [
+    {
+      "icon": "msx-white-soft:home",
+      "label": "Home",
+      "data": "content:https://raw.githubusercontent.com/fscheeren92-a11y/Ragnar-MSX/main/msx/home.json"
+    },
+    {
+      "icon": "msx-white-soft:tv",
+      "label": "S\u00e9ries",
+      "data": {
+        "type": "pages",
+        "headline": "S\u00e9ries",
+        "template": {
+          "type": "separate",
+          "layout": "0,0,2,4",
+          "icon": "msx-white-soft:tv",
+          "color": "msx-glass"
+        },
+        "items": [
+          {
+            "title": "Magical Explorer",
+            "titleFooter": "2026"
+          }
+        ]
+      }
+    },
+    {
+      "icon": "msx-white-soft:movie",
+      "label": "Filmes",
+      "data": "content:https://raw.githubusercontent.com/fscheeren92-a11y/Ragnar-MSX/main/msx/movies.json"
+    },
+    {
+      "icon": "msx-white-soft:search",
+      "label": "Busca"
+    },
+    {
+      "icon": "msx-white-soft:settings",
+      "label": "Configura\u00e7\u00f5es"
+    }
+  ]
+}

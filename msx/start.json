@@ -1,0 +1,5 @@
+{
+  "name": "Ragnar MSX",
+  "version": "1.0.0",
+  "parameter": "menu:https://raw.githubusercontent.com/fscheeren92-a11y/Ragnar-MSX/main/msx/menu.json"
+}

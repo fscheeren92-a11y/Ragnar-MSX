@@ -1,0 +1,40 @@
+{
+  "type": "list",
+  "headline": "Filmes \u00b7 Biblioteca",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "title": "+Velozes",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=Velozes"
+    },
+    {
+      "title": "A Espreita",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=Espreita"
+    },
+    {
+      "title": "A M\u00famia",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=Mumia"
+    },
+    {
+      "title": "2012",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=2012"
+    },
+    {
+      "title": "Blade",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=Blade"
+    },
+    {
+      "title": "D\u00e9j\u00e0 Vu",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=Deja+Vu"
+    },
+    {
+      "title": "60 Minutos",
+      "image": "https://via.placeholder.com/200x300/1a1a2e/ffffff?text=60+Min"
+    }
+  ]
+}

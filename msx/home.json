@@ -1,0 +1,36 @@
+{
+  "type": "pages",
+  "headline": "Destaque",
+  "background": "https://via.placeholder.com/1920x1080/0a1628/1a3a5c",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "teaser",
+          "layout": "0,0,8,6",
+          "title": "Magical Explorer (2026)",
+          "titleHeader": "S\u00c9RIE EM DESTAQUE",
+          "titleFooter": "Um jogador apaixonado por conte\u00fado er\u00f3tico decide se tornar o gal\u00e3 mais poderoso do jogo ao renascer em seu eroge favorito.",
+          "image": "https://via.placeholder.com/600x400/4a1a6a/ff69b4?text=Magical+Explorer",
+          "imageFiller": "height-right",
+          "badge": "2026",
+          "tag": "Anima\u00e7\u00e3o",
+          "tagColor": "msx-yellow"
+        },
+        {
+          "type": "button",
+          "layout": "0,6,2,1",
+          "label": "VER EPIS\u00d3DIOS",
+          "color": "msx-yellow",
+          "action": "content:https://raw.githubusercontent.com/fscheeren92-a11y/Ragnar-MSX/main/msx/episodes.json"
+        },
+        {
+          "type": "button",
+          "layout": "2,6,2,1",
+          "label": "+ MINHA LISTA",
+          "color": "msx-glass"
+        }
+      ]
+    }
+  ]
+}
